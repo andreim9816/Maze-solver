@@ -44,7 +44,7 @@ Maze solver robot that must find its way through a labyrinth. The algorithm moni
 <br>
 
 ## Demo video ##
-[click here for the demo video](https://youtu.be/VE46upkJfwo)
+[Click here for the demo video](https://youtu.be/VE46upkJfwo)
 
 <br>
 
