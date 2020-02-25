@@ -15,6 +15,7 @@ Maze solver robot that must find its way through a labyrinth. The algorithm moni
 1. IR receiver
 1. L293D driver
 1. 3x Ultrasonic sensor (HC-SR04)
+1. 1x Ultrasonic sensor holder
 1. 2x Resistor (220 ohm)
 1. 2x Led (green and blue)
 1. 2x Wheel
