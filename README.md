@@ -29,6 +29,8 @@ Maze solver robot that must find its way through a labyrinth. The algorithm moni
 <br>
 
 ## Photo of the entire project ##
+![](images/maze.jpeg)
+![](images/back.jpeg)
 ![](images/front_car.jpeg)
 ![](images/right_car.jpeg)
 ![](images/left_car.jpeg)
